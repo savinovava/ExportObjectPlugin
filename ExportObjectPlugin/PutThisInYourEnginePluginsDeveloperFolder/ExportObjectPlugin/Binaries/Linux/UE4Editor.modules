@@ -1,0 +1,7 @@
+{
+	"BuildId": "948332cf-5273-471a-ae14-e4ffed36a3d1",
+	"Modules": 
+	{
+		"ExportObjectPlugin": "libUE4Editor-ExportObjectPlugin.so"
+	}
+}

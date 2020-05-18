@@ -1,0 +1,7 @@
+"/home/lero4ka/UnrealEngine_4.24/Engine/Plugins/Developer/ExportObjectPlugin/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/ExportObjectPlugin/Module.ExportObjectPlugin.cpp.o"
+"/home/lero4ka/UnrealEngine_4.24/Engine/Plugins/Developer/ExportObjectPlugin/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/ExportObjectPlugin/Module.ExportObjectPlugin.gen.cpp.o"
+ -soname="libUE4Editor-ExportObjectPlugin.so"
+ -rpath-link="/home/lero4ka/UnrealEngine_4.24/Engine/Plugins/Developer/ExportObjectPlugin/Binaries/Linux"
+ -L"/home/lero4ka/UnrealEngine_4.24/Engine/Binaries/Linux"
+ --start-group
+ --end-group

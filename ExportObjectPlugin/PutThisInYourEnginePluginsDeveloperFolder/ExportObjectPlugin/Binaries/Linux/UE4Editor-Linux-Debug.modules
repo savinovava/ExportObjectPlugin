@@ -1,0 +1,7 @@
+{
+	"BuildId": "8a180869-22f7-4840-80a8-6efa3664382b",
+	"Modules": 
+	{
+		"ExportObjectPlugin": "libUE4Editor-ExportObjectPlugin-Linux-Debug.so"
+	}
+}
