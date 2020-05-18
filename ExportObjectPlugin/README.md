@@ -1,8 +1,3 @@
-# DEPRECATED
-
-This thing is deprecated. Is only here for reference.
-
-Please use https://www.unrealengine.com/marketplace/simple-panoramic-exporter instead.
 
 # ExportObjectPlugin
 Allows you to export arbitrary objects via a blueprint node in editor builds
@@ -11,15 +6,15 @@ Built to facilitate 360 stereoscopic panoramic video rendering out of UE4
 
 # Requirements
 
-This requires 4.7.6 or later, and requires your engine to be built from source code.
+Плагин скомпилирован для Linux Ubuntu 18.04 (UE 4.24)
 
 # Installation
 
-1. Copy the contents of PutThisInYourContentFolder to your project's content folder
-1. Copy the contents of PutThisInYourEnginePluginsDeveloperFolder to your Engine\Plugins\Developer folder
-1. Run your GenerateProjectFiles batch file
-1. Recompile your UE4 engine
+1. Скопируйте содержание папки PutThisInYourContentFolder в папку вашего проекта
+2. Скопируйте содержание папки PutThisInYourEnginePluginsDeveloperFolder в каталог Engine\Plugins\Developer folder
+3. Скомпилируйте ваш проект через QT Creator
 
+Ниже представлены стандартные ссылки на пользование плагином:
 # Usage
 
 See YouTube explanation: [Quick rough badly done getting started video](https://www.youtube.com/watch?v=3m85QBjyFGE)
